@@ -1,4 +1,5 @@
 # Enterprise Network Lab
-![Enterprise Network Topology](./Pictures/TOPOLOGY.png)
+![Enterprise Network Topology](./Images/TOPOLOGY.png)
 
-(not finished)
+# Connected Interfaces on Each Device (Reference)
+![Connected Interfaces](./Images/Connected_Interfaces.png)
