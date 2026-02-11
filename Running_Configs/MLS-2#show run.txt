@@ -156,6 +156,7 @@ router ospf 1
  network 10.0.40.0 0.0.0.255 area 0
  network 172.16.2.0 0.0.0.3 area 0
  network 192.168.1.0 0.0.0.3 area 0
+ passive-interface GigabitEthernet0/0,GigabitEthernet0/1,GigabitEthernet0/2
 !
 ip forward-protocol nd
 !
@@ -205,3 +206,4 @@ line vty 0 4
 !
 !
 end
+
