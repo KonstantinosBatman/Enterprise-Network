@@ -212,7 +212,7 @@ DHCP-DNS(config)# ip host PC8 10.0.40.5
 
 # Images Used
 
-- ***If you want to download and use this lab you will need to the following Images!***
+- ***If you want to download and use this lab you will need to install the following Images!***
 
 - For the **Switches and Multilayer Switches**: *vios_l2-adventerprisek9-m.SSA.high_iron_20180619.qcow2*
 - For **R1** and **ISP-1**: *c7200-adventerprisek9-mz.124-24.T5.image*
