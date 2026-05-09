@@ -4,6 +4,9 @@
 # Addressing for Reference
 ![Connected Interfaces](./Images/Connected_Interfaces.png)
 
+# IP Scheme
+![IP Scheme](./Images/IP_Scheme.png)
+
 ## Lab Overview
 - This project simulates a small-to-medium enterprise network environment using GNS3.
 - **OSPF** on R1, MLS-1, MLS-2 
